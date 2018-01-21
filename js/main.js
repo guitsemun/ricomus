@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["My Name is M.Reza", "I'm a Web Designer", "Love Simplicity"],
+        strings: ["Danza de León (Estilo Norteño y Sureño)", "Danza de Dragón", "Exhibición de Kung Fu"],
         typeSpeed: 100,
         backDelay: 900,
         // loop
