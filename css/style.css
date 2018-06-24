@@ -909,7 +909,7 @@ ul.portfolio-image li .desc{
 #about{
   min-height: 650px;
   display: inline-block;
-  width: 100%;
+  width: 50%;
 }
 .bg-about {
   background: url('../images/reza.jpg');
